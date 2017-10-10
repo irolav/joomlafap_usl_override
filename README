@@ -1,0 +1,8 @@
+Questo repository viene utilizzato per lo sviluppo collaborativo dell'override di JoomlaFAP, il template utilizzato dalle tre ASL:
+
+ www.uslnordovest.toscnana.it
+ www.uslcentro.toscana.it
+ www.uslsudest.toscnaa.it
+
+ Ogni proposta di modifica dovrà essere proposta tramite una pull_request e verrà valutata singolarmente per un eventuale proposta di merge nel progetto master.
+ L'obiettivo è quello di avere un unico progetto ufficiale che sia adottabile nelle tre diverse realtà regionali.
